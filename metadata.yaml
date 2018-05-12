@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38736'
     url: http://www.gutenberg.org/2009/agents/38736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37267#So-sollt-ihr-leben-Winke-und-Rathschl-ge-f-r-Gesunde-und-Kranke...
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
