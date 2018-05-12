@@ -1,0 +1,30 @@
+_repo: So-sollt-ihr-leben-Winke-und-Rathschl-ge-f-r-Gesunde-und-Kranke..._37267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kneipp, Sebastian
+    alias: Kneipp, Anton Sebastian
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '38736'
+    url: http://www.gutenberg.org/2009/agents/38736
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37267'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hydrotherapy'
+- !lcc 'RM'
+- !lcsh 'Health'
+- !lcsh 'Hygiene'
+title: So sollt ihr leben! Winke und Rathschläge für Gesunde und Kranke...
+url: http://www.gutenberg.org/ebooks/37267
